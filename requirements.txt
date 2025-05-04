@@ -1,0 +1,3 @@
+pythonFlask==2.2.2
+textblob==0.17.1
+werkzeug==2.2.3
